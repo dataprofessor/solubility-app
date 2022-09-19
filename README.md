@@ -1,4 +1,4 @@
-# solubility-app
+# Solubility App
 
 # Watch the tutorial video
 
